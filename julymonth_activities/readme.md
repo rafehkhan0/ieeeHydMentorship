@@ -2,8 +2,8 @@
 
 #### In this month we are focusing on the following two things
 <ol>
-  <li>Learnig Verilog HDL</li>
-  <li>Learnig Simulation using Intel's Modelsim</li>
+  <li>Learning Verilog HDL</li>
+  <li>Learning Simulation using Intel's Modelsim</li>
 </ol>
 
 #### the following are the commands to use for the simulation in the cmd mode(we can use GUI mode as well)
