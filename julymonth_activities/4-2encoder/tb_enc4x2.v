@@ -11,7 +11,7 @@ initial
 
 begin
 
-$monitor("@time %gns d0=%b d1=%b d2=%b d3=%b y0=%b y1=%b ",$time,a0,a1,a2,a3,y0,y1);
+  $monitor("@time %gns d3=%b d2=%b d1=%b d0=%b y1=%b y0=%b ",$time,a3,a2,a1,a0,y1,y0);
 
 a3=0;a2=0;a1=0;a0=1;
 #5;
