@@ -7,7 +7,7 @@
 </ol>
 
 #### Structural modelling examples
-1. [4 bit full adder using 1 bit full adder](julymonth_activities/structural modelling)
+1. [4 bit full adder using 1 bit full adder](https://github.com/rafehkhan0/ieeeHydMentorship/tree/main/julymonth_activities/structural%20modelling)
 
 #### the following are the commands to use for the simulation in the cmd mode(we can use GUI mode as well)
 
