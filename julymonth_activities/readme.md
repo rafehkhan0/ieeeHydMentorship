@@ -6,6 +6,9 @@
   <li>Learning Simulation using Intel's Modelsim</li>
 </ol>
 
+#### Structural modelling examples
+1. [4 bit full adder using 1 bit full adder](julymonth_activities/structural modelling)
+
 #### the following are the commands to use for the simulation in the cmd mode(we can use GUI mode as well)
 
 1. For creating the work library use the following command <br>
