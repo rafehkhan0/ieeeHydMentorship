@@ -28,7 +28,7 @@
  [Dataflow modelling examples](https://github.com/rafehkhan0/ieeeHydMentorship/tree/main/julymonth_activities/dataflow%20modelling)
 
 #### Behavioral modelling
- [Behavioral modelling examples]()
+ [Behavioral modelling examples](https://github.com/rafehkhan0/ieeeHydMentorship/tree/main/julymonth_activities/behaviour%20modelling)
 
 #### Structural modelling
  [Structural modelling examples](https://github.com/rafehkhan0/ieeeHydMentorship/tree/main/julymonth_activities/structural%20modelling1)
