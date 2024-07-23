@@ -1,0 +1,10 @@
+# vsim -c tb_hs 
+# Start time: 20:11:35 on Jul 22,2024
+# Loading work.tb_hs
+# Loading work.hs
+# @time 0ns: a=0, b=0, diff=0, borr=0
+# @time 5ns: a=0, b=1, diff=1, borr=1
+# @time 10ns: a=1, b=0, diff=1, borr=0
+# @time 15ns: a=1, b=1, diff=0, borr=0
+# End time: 20:11:55 on Jul 22,2024, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 0

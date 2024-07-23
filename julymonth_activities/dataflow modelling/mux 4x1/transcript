@@ -1,0 +1,18 @@
+# vsim -c tb_mux4x1 
+# Start time: 17:45:07 on Jul 23,2024
+# Loading work.tb_mux4x1
+# Loading work.mux4x1
+# @time 0ns i=0101, s=00, y=1
+# @time 5ns i=0101, s=01, y=0
+# @time 10ns i=0101, s=10, y=1
+# @time 15ns i=0101, s=11, y=0
+# @time 20ns i=1010, s=00, y=0
+# @time 25ns i=1010, s=01, y=1
+# @time 30ns i=1010, s=10, y=0
+# @time 35ns i=1010, s=11, y=1
+# ** Note: $stop    : ./tb_mux4x1.v(30)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_mux4x1
+# Break in Module tb_mux4x1 at ./tb_mux4x1.v line 30
+# Stopped at ./tb_mux4x1.v line 30
+# End time: 17:45:23 on Jul 23,2024, Elapsed time: 0:00:16
+# Errors: 0, Warnings: 0
