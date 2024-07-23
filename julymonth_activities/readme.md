@@ -6,8 +6,17 @@
   <li>Learning Simulation using Intel's Modelsim</li>
 </ol>
 
-#### Structural modelling examples
- [Structural modelling examples](https://github.com/rafehkhan0/ieeeHydMentorship/tree/main/julymonth_activities/structural%20modelling)
+#### Gate-level modelling
+ [Gate-level modelling examples]()
+
+#### Dataflow modelling
+ [Dataflow modelling examples]()
+
+#### Behavioral modelling
+ [Behavioral modelling examples]()
+
+#### Structural modelling
+ [Structural modelling examples](https://github.com/rafehkhan0/ieeeHydMentorship/tree/main/julymonth_activities/structural%20modelling1)
 
 #### the following are the commands to use for the simulation in the cmd mode(we can use GUI mode as well)
 
