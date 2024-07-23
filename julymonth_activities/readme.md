@@ -22,7 +22,7 @@
 #### These are the types of modelling in verilog:
 
 #### Gate-level modelling
- [Gate-level modelling examples]()
+ [Gate-level modelling examples](https://github.com/rafehkhan0/ieeeHydMentorship/tree/main/julymonth_activities/gate%20modelling)
 
 #### Dataflow modelling
  [Dataflow modelling examples]()
